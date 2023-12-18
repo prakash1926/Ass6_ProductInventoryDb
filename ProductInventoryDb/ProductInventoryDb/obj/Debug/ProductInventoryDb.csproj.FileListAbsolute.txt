@@ -1,0 +1,7 @@
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\bin\Debug\ProductInventoryDb.exe.config
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\bin\Debug\ProductInventoryDb.exe
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\bin\Debug\ProductInventoryDb.pdb
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\obj\Debug\ProductInventoryDb.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\obj\Debug\ProductInventoryDb.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\obj\Debug\ProductInventoryDb.exe
+C:\Users\abdul\OneDrive\Documents\SQL Server Management Studio\Assessment6\ProductInventoryDb\ProductInventoryDb\obj\Debug\ProductInventoryDb.pdb
